@@ -40,8 +40,3 @@ Then in your sketch:
 | VCC       | 3.3V        |
 | GND       | GND         |
 
-### 3.Example Output
-  SHT4x Sensor Initialized
-  Temperature: 23.65 °C
-  Humidity: 49.12 %
-
